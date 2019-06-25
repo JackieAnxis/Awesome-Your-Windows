@@ -7,19 +7,15 @@ Awesome Windows：<https://github.com/Awesome-Windows/Awesome>
 ## Essential
 
 1. [Google Chrome](https://www.google.cn/intl/zh-CN/chrome/): [![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
-<details>
-<summary>
-   Plugins:
-</summary>
-- [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
-   - [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl)
-   - [购物党自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
-   - [简悦SimpRead](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll)
-   - [LaTeX2Word-Equation\*](https://chrome.google.com/webstore/detail/latex2word-equation/oicdodhdflfciojjhbhnhpeenbpfipfg)
-   - [Love Jike Extension*](https://chrome.google.com/webstore/detail/love-jike-extension/pnglcgpgmedjmknpknjedmkggedgdlpk)
-   - [Stylish*](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)
-   - [MathJax for GitHub*](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)
-</details>
+	Plugins:
+    - [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
+       - [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl)
+       - [购物党自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah)
+       - [简悦SimpRead](https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll)
+       - [LaTeX2Word-Equation\*](https://chrome.google.com/webstore/detail/latex2word-equation/oicdodhdflfciojjhbhnhpeenbpfipfg)
+       - [Love Jike Extension*](https://chrome.google.com/webstore/detail/love-jike-extension/pnglcgpgmedjmknpknjedmkggedgdlpk)
+       - [Stylish*](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)
+       - [MathJax for GitHub*](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)
 
 2. [Wechat](https://weixin.qq.com/): [![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
 
@@ -53,114 +49,7 @@ Awesome Windows：<https://github.com/Awesome-Windows/Awesome>
    - Prettier
    - TSLint
 
-   User Settings:
-
-   ```json
-   {
-     "window.zoomLevel": 1,
-     "workbench.colorTheme": "Quiet Light",
-     "workbench.editor.enablePreview": false,
-     "terminal.integrated.fontFamily": "Cousine for Powerline",
-     "better-comments.tags": [{
-       "tag": "!",
-       "color": "#FF8C00",
-       "strikethrough": false,
-       "backgroundColor": "transparent"
-     }, {
-       "tag": "?",
-       "color": "#FF2D00",
-       "strikethrough": false,
-       "backgroundColor": "transparent"
-     }, {
-       "tag": "//",
-       "color": "#474747",
-       "strikethrough": true,
-       "backgroundColor": "transparent"
-     }, {
-       "tag": "todo",
-       "color": "#3498DB",
-       "strikethrough": false,
-       "backgroundColor": "#fbbc05"
-     }, {
-       "tag": "*",
-       "color": "#98C379",
-       "strikethrough": false,
-       "backgroundColor": "transparent"
-     }],
-     "explorer.confirmDelete": false,
-     "explorer.confirmDragAndDrop": false,
-     "prettier.tslintIntegration": true,
-     "[typescript]": {
-       "editor.defaultFormatter": "esbenp.prettier-vscode"
-     },
-     "editor.formatOnSave": true,
-     "editor.fontFamily": "Consolas, 'Microsoft Yahei', 'Courier New', monospace",
-     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
-     "latex-workshop.latex.tools": [{
-       "name": "xelatex",
-       "command": "xelatex",
-       "args": [
-         "-synctex=1",
-         "-interaction=nonstopmode",
-         "-file-line-error",
-         "%DOC%"
-       ]
-     }, {
-       "name": "pdflatex",
-       "command": "pdflatex",
-       "args": [
-         "-synctex=1",
-         "-interaction=nonstopmode",
-         "-file-line-error",
-         "%DOC%"
-       ]
-     }, {
-       "name": "bibtex",
-       "command": "bibtex",
-       "args": [
-         "%DOCFILE%"
-       ]
-     }],
-     "latex-workshop.latex.recipes": [{
-       "name": "pdflatex -> bibtex -> pdflatex*2",
-       "tools": [
-         "pdflatex",
-         "bibtex",
-         "pdflatex",
-         "pdflatex"
-       ]
-     }, {
-       "name": "PDFLaTeX",
-       "tools": [
-         "pdflatex"
-       ]
-     }, {
-       "name": "XeLaTeX",
-       "tools": [
-         "xelatex"
-       ]
-     }, {
-       "name": "latexmk",
-       "tools": [
-         "latexmk"
-       ]
-     }, {
-       "name": "BibTeX",
-       "tools": [
-         "bibtex"
-       ]
-     }, {
-       "name": "xelatex -> bibtex -> xelatex*2",
-       "tools": [
-         "xelatex",
-         "bibtex",
-         "xelatex",
-         "xelatex"
-       ]
-     }],
-     "latex-workshop.view.pdf.viewer": "tab",
-   }
-   ```
+   User Settings: [settings.json](./settings.json)
 
 2. [Cmder](https://cmder.net/): A software package that provides great console experience even on Windows.[![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
 
