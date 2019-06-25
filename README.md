@@ -9,7 +9,7 @@ Awesome Windows：<https://github.com/Awesome-Windows/Awesome>
 ### Entertainment
 
 - [Google Chrome ](https://www.google.cn/intl/zh-CN/chrome/): ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)
-- [Configuration Recommendation](./Chrome.md)
+  - [Configuration Recommendation](./Chrome.md)
 - [Wechat](https://weixin.qq.com/): ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
 
 ### Document
@@ -17,6 +17,8 @@ Awesome Windows：<https://github.com/Awesome-Windows/Awesome>
 
 ### Tools
 - [Ditto](https://www.microsoft.com/en-us/p/ditto-clipboard/9nblggh3zbjq): Clipboard history: ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
+- [Wox](http://www.wox.one/): An effective launcher for windows![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)
+  - Wox works much better with [Everything](https://voidtools.com/): Locate files and folders by name instantly![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)
 - [Listary](https://www.listary.com/): Free File Search and App Launcher![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
 - [7-Zip](https://www.7-zip.org/): A file archiver with a high compression ratio![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
 - [Sougou pinyin Input Method](https://pinyin.sogou.com/): ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
