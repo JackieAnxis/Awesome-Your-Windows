@@ -30,7 +30,8 @@ Awesome Windows：<https://github.com/Awesome-Windows/Awesome>
 
 - [Visual Studio Code](https://code.visualstudio.com/): Code Editor ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
   - [Configuration Recommendation](./VSCode)
-- [Cmder](https://cmder.net/): A software package that provides great console experience even on Windows.l![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
+- [Cmder](https://cmder.net/): A software package that provides great console experience even on Windows.![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)
+  - [Configuration Recommendation](./CMDer.md) 
 - [Nodejs](https://nodejs.org/): A JavaScript runtime built on Chrome's V8 JavaScript engine.![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
 - [Python](https://www.python.org/downloads/windows/): ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
 - [Jebrain IDEs](https://www.jetbrains.com/)(Pycharm, Webstorm and so on): Free for students.
