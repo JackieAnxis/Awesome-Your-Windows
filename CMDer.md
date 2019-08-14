@@ -37,3 +37,5 @@
 
    - put all the `lua` file into `${CMDER_HOME}/config`
    - restart cmder, use settings to choose your powerline font
+
+3. add to your context menue: https://github.com/cmderdev/cmder/wiki/Context-menu-integration
