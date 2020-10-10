@@ -38,4 +38,6 @@
    - put all the `lua` file into `${CMDER_HOME}/config`
    - restart cmder, use settings to choose your powerline font
 
-3. add to your context menue: https://github.com/cmderdev/cmder/wiki/Context-menu-integration
+3. Add to your context menue: https://github.com/cmderdev/cmder/wiki/Context-menu-integration
+
+4. Prevent cursor fault like: https://github.com/microsoft/vscode/issues/48988; Find the 51 line of `${CMDER_HOME}/vendor/clink.lua`, change "λ" to "#" or else...
