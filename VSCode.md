@@ -60,7 +60,14 @@
     },
     "editor.formatOnSave": true,
     "editor.fontFamily": "Consolas, 'Microsoft Yahei', 'Courier New', monospace",
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.env.windows": {
+      "CMDER_ROOT": "C:\\Program Files\\cmder"
+    },
+    "terminal.integrated.shellArgs.windows": [
+      "/k",
+      "C:\\Program Files\\cmder\\vendor\\init.bat"
+    ],
     "latex-workshop.latex.tools": [{
         "name": "xelatex",
         "command": "xelatex",
