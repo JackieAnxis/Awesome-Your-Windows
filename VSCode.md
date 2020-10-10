@@ -7,7 +7,7 @@
 ## EXTENSIONS
 
 - **Beautify**: Beautify code in place for VS Code
-- **Better Cooments**: Improve your code commenting by annotating with alert, informational, TODOs, and more!
+- **Better Comments**: Improve your code commenting by annotating with alert, informational, TODOs, and more!
 - **Document This**: Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.
 - **ESLint**: Integrates ESLint JavaScript into VS Code.
 - **GitLens**: Supercharge the Git capabilities built into Visual Studio Code
