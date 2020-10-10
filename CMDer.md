@@ -40,4 +40,4 @@
 
 3. Add to your context menue: https://github.com/cmderdev/cmder/wiki/Context-menu-integration
 
-4. Prevent cursor fault like: https://github.com/microsoft/vscode/issues/48988; Find the 51 line of `${CMDER_HOME}/vendor/clink.lua`, change "λ" to "#" or else...
+4. Prevent cursor fault like: https://github.com/microsoft/vscode/issues/48988; Find the `λ` symbol in `${CMDER_HOME}`, mainly in `${CMDER_HOME}/vendor/clink.lua` and `${CMDER_HOME}/config/powerline_core.lua`, change "λ" to "#" or else...;
