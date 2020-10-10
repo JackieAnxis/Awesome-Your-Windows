@@ -33,7 +33,7 @@
 2. Change Styles
 
    - download or git clone [AmrEldib/cmder-powerline-prompt](https://github.com/AmrEldib/cmder-powerline-prompt)
-   - download `powerline` fonts and install your favorite font
+   - download [`powerline` fonts](https://github.com/powerline/fonts) and install your favorite font
 
    - put all the `lua` file into `${CMDER_HOME}/config`
    - restart cmder, use settings to choose your powerline font
