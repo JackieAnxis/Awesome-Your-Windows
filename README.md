@@ -54,10 +54,12 @@ Awesome Windows：<https://github.com/Awesome-Windows/Awesome>
 - [ScreenToGif](https://www.screentogif.com): Free screen recorder tool![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
 - [TeamViewer](https://www.teamviewer.com/): The world’s #1 brand for remote connectivity solutions[![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667)]
 - [Rere](https://rere.appinn.me/):  An open-source relax reminder![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
-
 - [Adobe Acrobat Reader DC](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
-
 - [Youxiao Calendar](http://www.youxiao.cn/): ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
+- [Nutstore](https://www.jianguoyun.com/) ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667): Free to use, but it is limited. Have to pay for better experience.
+- [Zotero](https://www.zotero.org/) ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667): Free to use, but it is limited.
+  - Zotero can be synchronized with [Nutstore](https://www.jianguoyun.com/) or OneDrive. First move your Zotero data directory into the Nutstore sync folder. Then find Preferences>Advanced>Files and Folders>Data Directory Location>Custom, set it as the moved directory mentioned before. Finally, close the automatically Sync in Zotero.
+- [WPS](https://www.wps.cn/) ![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667): it is an office software integreted Documents, Slides, PDF, ...
 
 ### Document
 - [Typora](https://typora.io/): A markdown editor, markdown reader![Freeware](https://camo.githubusercontent.com/5b5710d91294db78c7e32ffa884d6c45ab15c471/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d667265652e737667) 
